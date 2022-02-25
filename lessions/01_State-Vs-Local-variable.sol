@@ -29,3 +29,4 @@ contract defaultValue {
     bytes32 public a;
     string str; 
 }
+//end
